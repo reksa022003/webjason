@@ -1,0 +1,1142 @@
+[
+	{
+		"id" : 1,
+		"blokno" : "BA00-1",
+		"pemilik" : "ANDREW",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 2,
+		"blokno" : "BA00-2",
+		"pemilik" : "PEMILIK//SEWA/YAYASAN",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 3,
+		"blokno" : "BA00-3",
+		"pemilik" : "ELMI ZAKY / YUSUF",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 4,
+		"blokno" : "BA00-5",
+		"pemilik" : "DANANG + USAHA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 5,
+		"blokno" : "BA00-6",
+		"pemilik" : "DJULHERI + USAHA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 6,
+		"blokno" : "BA00-7",
+		"pemilik" : "BAYU",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 7,
+		"blokno" : "BA00-8",
+		"pemilik" : "JANUARIANTO",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 8,
+		"blokno" : "BA00-9",
+		"pemilik" : "PURYATMI (WAHANA)",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 9,
+		"blokno" : "BA00-10",
+		"pemilik" : "DJUWITA BURWATI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 10,
+		"blokno" : "BA00-11",
+		"pemilik" : "MUSRIL",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 11,
+		"blokno" : "BA00-12",
+		"pemilik" : "SATMOKO WISAKSONO",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 12,
+		"blokno" : "BA00-15",
+		"pemilik" : "RUMAH CONTOH CIC / SALON SITI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 13,
+		"blokno" : "BA00-16",
+		"pemilik" : "VIKTOR",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 14,
+		"blokno" : "BA00-17",
+		"pemilik" : "CHANDRA / SURYANI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 15,
+		"blokno" : "BA00-18",
+		"pemilik" : "ZAHRA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 16,
+		"blokno" : "BA00-19",
+		"pemilik" : "SUGIYONO",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 17,
+		"blokno" : "BA00-20",
+		"pemilik" : "ERLINA NUFIRMAN / DAVID",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 18,
+		"blokno" : "BA00-21",
+		"pemilik" : "M. FAISAL",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 19,
+		"blokno" : "BA01-1",
+		"pemilik" : "MEYMAN",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 20,
+		"blokno" : "BA01-2",
+		"pemilik" : "HJ. HALIMAH",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 21,
+		"blokno" : "BA01-3",
+		"pemilik" : "EVA / WIDIANTO",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 22,
+		"blokno" : "BA01-5",
+		"pemilik" : "REGINA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 23,
+		"blokno" : "BA01-6",
+		"pemilik" : "SUMEDI,S.SOS / SEVEN HALIM",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 24,
+		"blokno" : "BA01-7",
+		"pemilik" : "OKI WIJAYA IRWAN",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 25,
+		"blokno" : "BA01-8",
+		"pemilik" : "RUDY GIDEON / AYU",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 26,
+		"blokno" : "BA01-9",
+		"pemilik" : "HJ. ANDI MUSNIAR",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 27,
+		"blokno" : "BA01-10",
+		"pemilik" : "NANANG PURWANTO",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 28,
+		"blokno" : "BA01-11",
+		"pemilik" : "OBET FERDINAND",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 29,
+		"blokno" : "BA01-12",
+		"pemilik" : "JUPRI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 30,
+		"blokno" : "BA01-15",
+		"pemilik" : "MASKURI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 31,
+		"blokno" : "BA01-16",
+		"pemilik" : "IWAN",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 32,
+		"blokno" : "BA01-17",
+		"pemilik" : "RAFIYATI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 33,
+		"blokno" : "BA01-18",
+		"pemilik" : "NELSON",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 34,
+		"blokno" : "BA01-19",
+		"pemilik" : "SUMANTRI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 35,
+		"blokno" : "BA01-20",
+		"pemilik" : "ANNA FIKARIA (PEMILIK)",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 36,
+		"blokno" : "BA01-21",
+		"pemilik" : "HANIF",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 37,
+		"blokno" : "BA01-23",
+		"pemilik" : "BUDI. S",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 38,
+		"blokno" : "BA01-25",
+		"pemilik" : "FIRMAN / MELA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 39,
+		"blokno" : "BA02-1",
+		"pemilik" : "AGUSTIAN. S",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 40,
+		"blokno" : "BA02-2",
+		"pemilik" : "NINAN",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 41,
+		"blokno" : "BA02-3",
+		"pemilik" : "HERI. P",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 42,
+		"blokno" : "BA02-5",
+		"pemilik" : "BASTIAN ",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 43,
+		"blokno" : "BA02-6",
+		"pemilik" : "ELLY / TAJUDDIN",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 44,
+		"blokno" : "BA02-7",
+		"pemilik" : "HUSNI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 45,
+		"blokno" : "BA02-8",
+		"pemilik" : "TAUFIK",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 46,
+		"blokno" : "BA02-9",
+		"pemilik" : "H. WAWAN AONILLAH S.AG",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 47,
+		"blokno" : "BA02-10",
+		"pemilik" : "DWI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 48,
+		"blokno" : "BA02-11",
+		"pemilik" : "ASFAR",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 49,
+		"blokno" : "BA02-12",
+		"pemilik" : "SUTRISNO",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 50,
+		"blokno" : "BA02-15",
+		"pemilik" : "ERWIN",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 51,
+		"blokno" : "BA02-16",
+		"pemilik" : "LIDYA. P / ANANG",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 52,
+		"blokno" : "BA02-17",
+		"pemilik" : "HESTI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 53,
+		"blokno" : "BA02-18",
+		"pemilik" : "ALVIN",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 54,
+		"blokno" : "BA02-19",
+		"pemilik" : "NURHAYATI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 55,
+		"blokno" : "BA02-20",
+		"pemilik" : "AHMAD NORMANSYAH",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 56,
+		"blokno" : "BA02-21",
+		"pemilik" : "PUJIANTO (RT)",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 57,
+		"blokno" : "BA02-23",
+		"pemilik" : "KAMSURI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 58,
+		"blokno" : "BA03-1",
+		"pemilik" : "VINCEN",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 59,
+		"blokno" : "BA03-2",
+		"pemilik" : "SUSI HANDAYANI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 60,
+		"blokno" : "BA03-3",
+		"pemilik" : "ENDEN NANI AMPRIYANI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 61,
+		"blokno" : "BA03-5",
+		"pemilik" : "M. NURHIDAYAT INDRIYANTO",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 62,
+		"blokno" : "BA03-6",
+		"pemilik" : "R. PANCHA NUGROHO HERMANI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 63,
+		"blokno" : "BA03-7",
+		"pemilik" : "REZA MAULANA (ARYA)",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 64,
+		"blokno" : "BA03-8",
+		"pemilik" : "HERIYANTO",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 65,
+		"blokno" : "BA03-9",
+		"pemilik" : "RUSMINI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 66,
+		"blokno" : "BA05-1",
+		"pemilik" : "GILANG",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 67,
+		"blokno" : "BA05-2",
+		"pemilik" : "RAFAEL",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 68,
+		"blokno" : "BA05-3",
+		"pemilik" : "RAYHAND / SURYAMAN",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 69,
+		"blokno" : "BA05-5",
+		"pemilik" : "SANDI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 70,
+		"blokno" : "BA05-6",
+		"pemilik" : "LIS NOVIANTI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 71,
+		"blokno" : "BA05-7",
+		"pemilik" : "TEGUH",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 72,
+		"blokno" : "BA05-8",
+		"pemilik" : "SUBOWO",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 73,
+		"blokno" : "BA05-9",
+		"pemilik" : "RIDWAN/IRNI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 74,
+		"blokno" : "BA06-1",
+		"pemilik" : "RAHMAT",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 75,
+		"blokno" : "BA06-2",
+		"pemilik" : "LIMBONG",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 76,
+		"blokno" : "BA06-3",
+		"pemilik" : "EKA SURAYA, A. MD",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 77,
+		"blokno" : "BA06-5",
+		"pemilik" : "DIAN / KAMSURI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 78,
+		"blokno" : "BA06-6",
+		"pemilik" : "NIKEN",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 79,
+		"blokno" : "BA06-7",
+		"pemilik" : "HARRY",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 80,
+		"blokno" : "BA06-8",
+		"pemilik" : "YOSEPH",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 81,
+		"blokno" : "BA06-9",
+		"pemilik" : "FREDDY TAMIRA / AQIM",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 82,
+		"blokno" : "BA06-10",
+		"pemilik" : "JUSYWATI SUTJIPTO",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 83,
+		"blokno" : "BA06-11",
+		"pemilik" : "SRI WULAN",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 84,
+		"blokno" : "BA06-12",
+		"pemilik" : "ILHAM",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 85,
+		"blokno" : "BA06-15",
+		"pemilik" : "M. ADZAN",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 86,
+		"blokno" : "BA06-16",
+		"pemilik" : "HELMAINE / LARAS",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 87,
+		"blokno" : "BA06-17",
+		"pemilik" : "PEMILIK RUMAH ",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 88,
+		"blokno" : "BA06-18",
+		"pemilik" : "DARSOF",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 89,
+		"blokno" : "BA06-19",
+		"pemilik" : "HERI / DEWI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 90,
+		"blokno" : "BA06-20",
+		"pemilik" : "SAIFUL / HENDRA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 91,
+		"blokno" : "BA06-21",
+		"pemilik" : "CINDI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 92,
+		"blokno" : "BA06-23",
+		"pemilik" : "",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 93,
+		"blokno" : "BA06-25",
+		"pemilik" : "SRI ARSITA MUTIARA / GIRI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 94,
+		"blokno" : "BA06-26",
+		"pemilik" : "BENEDIC/DISEWAKAN",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 95,
+		"blokno" : "BA06-27",
+		"pemilik" : "YULI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 96,
+		"blokno" : "BA06-28",
+		"pemilik" : "PURWANTI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 97,
+		"blokno" : "BA06-29",
+		"pemilik" : "JOHANES",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 98,
+		"blokno" : "BA06-33",
+		"pemilik" : "DWI LINDAWATI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 99,
+		"blokno" : "BA07-1",
+		"pemilik" : "HASFIN",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 100,
+		"blokno" : "BA07-2",
+		"pemilik" : "HARJUNA T.R / DEA",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 101,
+		"blokno" : "BA07-3",
+		"pemilik" : "WIDRAN / MEYVERA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 102,
+		"blokno" : "BA07-5",
+		"pemilik" : "ADY",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 103,
+		"blokno" : "BA07-6",
+		"pemilik" : "IWAN",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 104,
+		"blokno" : "BA07-7",
+		"pemilik" : "EDI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 105,
+		"blokno" : "BA07-8",
+		"pemilik" : "LINA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 106,
+		"blokno" : "BA07-9",
+		"pemilik" : "ARIF",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 107,
+		"blokno" : "BA07-10",
+		"pemilik" : "PETER ANTONIO",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 108,
+		"blokno" : "BA07-11",
+		"pemilik" : "HENG",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 109,
+		"blokno" : "BA07-12",
+		"pemilik" : "JEFFRY",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 110,
+		"blokno" : "BA07-15",
+		"pemilik" : "ARIYANTO",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 111,
+		"blokno" : "BA07-16",
+		"pemilik" : "LIE SISILIA",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 112,
+		"blokno" : "BA07-17",
+		"pemilik" : "SISKA",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 113,
+		"blokno" : "BA07-18",
+		"pemilik" : "IKA",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 114,
+		"blokno" : "BA07-19",
+		"pemilik" : "YUDI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 115,
+		"blokno" : "BA07-20",
+		"pemilik" : "NUR JENY",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 116,
+		"blokno" : "BA07-26",
+		"pemilik" : "ANDII",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 117,
+		"blokno" : "BA08-1",
+		"pemilik" : "JOKO / ANNA MARIANA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 118,
+		"blokno" : "BA08-2",
+		"pemilik" : "OLOAN. SITUMORANG",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 119,
+		"blokno" : "BA08-3",
+		"pemilik" : "RUSDIN",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 120,
+		"blokno" : "BA08-5",
+		"pemilik" : "JIMMY SUHARMAN",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 121,
+		"blokno" : "BA08-6",
+		"pemilik" : "SUPRIYANTO",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 122,
+		"blokno" : "BA08-7",
+		"pemilik" : "KIRTAM ",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 123,
+		"blokno" : "BA08-8",
+		"pemilik" : "HERNA",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 124,
+		"blokno" : "BA08-9",
+		"pemilik" : "NOVI YULIANTO",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 125,
+		"blokno" : "BA08-10",
+		"pemilik" : "YAHYA/EMMA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 126,
+		"blokno" : "BA08-11",
+		"pemilik" : "SALIPIN (SEWA)",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 127,
+		"blokno" : "BA08-12",
+		"pemilik" : "IR. ANDI TAMBOK SIDABUTAR",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 128,
+		"blokno" : "BA08-15",
+		"pemilik" : "DENNY/NOVI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 129,
+		"blokno" : "BA08-16",
+		"pemilik" : "IMAN JAYA HAREFA - (LIZA)",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 130,
+		"blokno" : "BA08-17",
+		"pemilik" : "WIDIANTO / ANTO",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 131,
+		"blokno" : "BA08-18",
+		"pemilik" : "YUNI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 132,
+		"blokno" : "BA08-19",
+		"pemilik" : "GATOT ",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 133,
+		"blokno" : "BA08-20",
+		"pemilik" : "SULIATI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 134,
+		"blokno" : "BA08-26",
+		"pemilik" : "DAULAT",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 135,
+		"blokno" : "BA09-1",
+		"pemilik" : "VANNY / WILLEM K",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 136,
+		"blokno" : "BA09-2",
+		"pemilik" : "SYAMSUDDIN",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 137,
+		"blokno" : "BA09-3",
+		"pemilik" : "ERNA SURJADI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 138,
+		"blokno" : "BA09-5",
+		"pemilik" : "TANTY",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 139,
+		"blokno" : "BA09-6",
+		"pemilik" : "IWAN",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 140,
+		"blokno" : "BA09-7",
+		"pemilik" : "RONNY GOTAMA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 141,
+		"blokno" : "BA09-8",
+		"pemilik" : "YULI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 142,
+		"blokno" : "BA09-9",
+		"pemilik" : "EKA JAYAANTI OKTAFIANTI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 143,
+		"blokno" : "BA09-10",
+		"pemilik" : "NUFIRMAN ABDULLAH",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 144,
+		"blokno" : "BA09-11",
+		"pemilik" : "MARIA",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 145,
+		"blokno" : "BA09-12",
+		"pemilik" : "CHANDRA / LELA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 146,
+		"blokno" : "BA09-15",
+		"pemilik" : "WINA",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 147,
+		"blokno" : "BA09-16",
+		"pemilik" : "ENNY PUTRI KRISTIANI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 148,
+		"blokno" : "BA09-17",
+		"pemilik" : "ARIBOWO",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 149,
+		"blokno" : "BA09-18",
+		"pemilik" : "SUMARDI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 150,
+		"blokno" : "BA09-19",
+		"pemilik" : "TAUFIK",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 151,
+		"blokno" : "BA09-20",
+		"pemilik" : "AGUSTIAN ZULFINARDI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 152,
+		"blokno" : "BA09-26",
+		"pemilik" : "SANDI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 153,
+		"blokno" : "BA10-1",
+		"pemilik" : "HENDI PRANOTO",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 154,
+		"blokno" : "BA10-2",
+		"pemilik" : "YOPPY SUSENO",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 155,
+		"blokno" : "BA10-3",
+		"pemilik" : "CHARLES",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 156,
+		"blokno" : "BA10-5",
+		"pemilik" : "ABDULAH SANI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 157,
+		"blokno" : "BA10-6",
+		"pemilik" : "WAKHID",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 158,
+		"blokno" : "BA10-7",
+		"pemilik" : "HERRIYANTO",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 159,
+		"blokno" : "BA10-8",
+		"pemilik" : "ANDIKA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 160,
+		"blokno" : "BA10-9",
+		"pemilik" : "DJUNAEDI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 161,
+		"blokno" : "BA10-10",
+		"pemilik" : "RICKY",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 162,
+		"blokno" : "BA10-11",
+		"pemilik" : "SUPRIADI",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 163,
+		"blokno" : "BA10-12",
+		"pemilik" : "LISNA/LOREN",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 164,
+		"blokno" : "BA10-15",
+		"pemilik" : "SUSAN SOETANTO",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 165,
+		"blokno" : "BA10-16",
+		"pemilik" : "ACHMAD YANI / LILIS",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 166,
+		"blokno" : "BA10-17",
+		"pemilik" : "HERFANO",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 167,
+		"blokno" : "BA10-18",
+		"pemilik" : "EMY",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 168,
+		"blokno" : "BA10-19",
+		"pemilik" : "AMSORI ",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 169,
+		"blokno" : "BA10-21",
+		"pemilik" : "SULARMAN",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 170,
+		"blokno" : "BA11-1",
+		"pemilik" : "DEMBY TOKOH HIRDAYANA",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 171,
+		"blokno" : "BA11-2",
+		"pemilik" : "NURAMELIA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 172,
+		"blokno" : "BA11-3",
+		"pemilik" : "DIMAS KURNIAWAN TAYIBNAPIS",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 173,
+		"blokno" : "BA11-5",
+		"pemilik" : "MESRA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 174,
+		"blokno" : "BA11-6",
+		"pemilik" : "LIMBONG",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 175,
+		"blokno" : "BA11-7",
+		"pemilik" : "OCE SUSENO",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 176,
+		"blokno" : "BA11-8",
+		"pemilik" : "TRIYONO",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 177,
+		"blokno" : "BA11-9",
+		"pemilik" : "HJ. SITI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 178,
+		"blokno" : "BA11-10",
+		"pemilik" : "SUNARSO",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 179,
+		"blokno" : "BA12-1",
+		"pemilik" : "DEWI KUMALASARI / ISKANDAR",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 180,
+		"blokno" : "BA12-2",
+		"pemilik" : "DEWI - (DIKONTRAKAN BY LISA)",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 181,
+		"blokno" : "BA12-3",
+		"pemilik" : "BROTO / RIKA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 182,
+		"blokno" : "BA12-5",
+		"pemilik" : "ANGGA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 183,
+		"blokno" : "BA12-6",
+		"pemilik" : "MARISKA / EDWARD",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 184,
+		"blokno" : "BA12-7",
+		"pemilik" : "SLAMET",
+		"kondisi" : "KOSONG"
+	},
+	{
+		"id" : 185,
+		"blokno" : "BA12-8",
+		"pemilik" : "MAYA GENISA / DONI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 186,
+		"blokno" : "BA12-9",
+		"pemilik" : "DARLIS",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 187,
+		"blokno" : "BA12-10",
+		"pemilik" : "NUNUNG EKO A / ARYA",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 188,
+		"blokno" : "BA12-11",
+		"pemilik" : "DEDY SURYANTO / DEWI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 189,
+		"blokno" : "BA12-12",
+		"pemilik" : "YOSEANO FRANSIUS MAMAHI",
+		"kondisi" : "HUNI"
+	},
+	{
+		"id" : 190,
+		"blokno" : "BA12-15",
+		"pemilik" : "IBU YANA / M. FIAZ",
+		"kondisi" : "HUNI"
+	}
+]
